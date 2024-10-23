@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16715889)
 # Loves me, loves me not...
 
 "Loves me, loves me not" is a traditional game in which a person plucks off all the petals of a flower one by one, saying the phrase _"Loves me"_ and _"Loves me not"_ when determining whether the one that they love, loves them back.
